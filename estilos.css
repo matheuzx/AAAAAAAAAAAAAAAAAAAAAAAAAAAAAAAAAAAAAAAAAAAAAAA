@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+ background: url(imagens/modalidades2.png);
+}
+ 
+h1
+{
+color:#191970;
+}
+
+#principal
+{
+margin: 0 auto;
+width: 1000px;
+}
+
+#menu
+{
+width: 1000px;
+background: #BEBEBE;
+height: 60px;
+padding: 10px;
+}
+
+#conteudo
+{
+width: 1000px;
+background: #4682B4;
+padding: 10px;
+}
+
+#rodape
+{
+width: 1000px;
+background: #4682B4;
+padding: 10px;
+}
